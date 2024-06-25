@@ -1,6 +1,6 @@
 # Pagina-de-amor
 
-# Este es un proyecto en el cual podras enviarle a alguien para que sea tu pareja si o si
+# Este é um site pra saber se eduardo me ama
 
 preview: https://stalker-amor.netlify.app
 

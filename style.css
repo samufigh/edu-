@@ -81,3 +81,31 @@ h1 {
     height: 40px;
     animation: all 0.2s;
 }
+
+.imgdudu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+
+.fotinhas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+p{
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 70px;
+}
+
+.imgsamu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
