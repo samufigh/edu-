@@ -1,6 +1,6 @@
-# Pagina-de-amor
+# Eduardo
 
-# Este é um site pra saber se eduardo me ama
+# Pergunta a Du
 
 preview: https://stalker-amor.netlify.app
 
