@@ -18,6 +18,8 @@ document.getElementById("sim").addEventListener("click", function(){
     notify()
 });
 
+// confirm click
+
 
 function notify(){
     if (!("Notification" in window)) {
